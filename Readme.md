@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/23/user/535601).
-* Наставник: `Неизвестно`.
+* Студент: [Жилякова Мария](https://up.htmlacademy.ru/htmlcss/23/user/535601).
+* Наставник: [Владислав Данилов] (https://htmlacademy.ru/profile/id491605).
 
 ---
 
